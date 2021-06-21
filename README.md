@@ -1,7 +1,7 @@
 # my-first-binder
 my first binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sungkim/my-first-binder/HEAD?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sungoukkim/my-first-binder/HEAD?urlpath=lab)
 
 Helpful Links and references!
 
